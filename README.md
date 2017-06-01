@@ -34,4 +34,11 @@ react-native run-android
 Here's a walkthrough of implemented user stories:
 
 
-
+<img id="imgur" src="https://i.imgur.com/xUtt8Xnh.jpg">
+<script>
+$('#imgur').gifplayer({
+  mode: 'video',
+  webm: '//i.imgur.com/xUtt8Xn.webm',
+  mp4: '//i.imgur.com/xUtt8Xn.mp4'
+});
+</script>
