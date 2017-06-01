@@ -33,6 +33,5 @@ react-native run-android
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/xUtt8Xn' title='Video Walkthrough Tip Calculator React native' width='' alt='Video Walkthrough Tip Calculator React native' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="xUtt8Xn"><a href="//imgur.com/xUtt8Xn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
